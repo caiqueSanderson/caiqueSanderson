@@ -1,4 +1,7 @@
 ### Hello world! Eu sou Caique Sanderson 👋
+- Sou estudante de Engenharia de Software (Software Engineer) no Instituto Infnet;
+- Atualmente estou estudando sobre os Fundamentos de Dados(Python e SQL);
+- A área de tecnologia, principalmente programação, é uma área fascinante, pois é por meio de linguagens de programação que projetos saem do papel e se tornam realidade, influenciando pessoas, trazendo inovações e etc. E é justamente nessa área que deseja minha primeira oportunidade.
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiqueSanderson&show_icons=true&theme=gruvbox)
 
