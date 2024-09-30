@@ -7,7 +7,6 @@
 
 ## 🚀 Tech Stack & Tools
 
-## 🚀 Tech Stack & Tools
 
 ### Languages & Frameworks
 
@@ -29,12 +28,8 @@
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+</p> 
 
-#### Tools & Other  
-<p>
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender& />
-</p>
 ---
 
 ## 📊 GitHub Stats
