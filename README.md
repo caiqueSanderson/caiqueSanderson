@@ -2,8 +2,6 @@
 
 ### Olá, meu nome é Caique Sanderson!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Caique Sanderson&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 <p>
 🔹 Estudante de Engenharia de Software no Instituto Infnet. <br>
 🔹 Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. <br>
